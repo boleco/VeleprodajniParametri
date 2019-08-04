@@ -9,7 +9,7 @@ Android aplikacija za olakšavanje unosa parametara konekcije u Clickmobile za s
   
 •	**Instaliranje:**  
 Aplikacija se preuzima klikom na dugme *Download* na ovom linku  
-https://github.com/boleco/VeleprodajniParametri  
+https://github.com/boleco/VeleprodajniParametri/blob/master/VeleprodajniParametri.apk  
 Kada se preuzimanje (*download*) završi treba u folderu Download pronaći fajl *VeleprodajniParametri.apk*, dvaput kliknuti na njega i započeće instaliranje aplikacije.  
   
 **NAPOMENA:**  
